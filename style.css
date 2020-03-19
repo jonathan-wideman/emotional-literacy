@@ -1,0 +1,36 @@
+body {
+    background-color: #272433;
+    margin: 12px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.emotion-list-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.emotion-list-column {
+    margin: 16px;
+    min-width: 220px;
+    max-width: 400px;
+    flex-grow: 1;
+    background-color: #00524e;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25), 0 2px 4px rgba(0, 0, 0, 0.22);
+}
+
+.emotion-list-column-header {
+    background-color: #107f7a;
+    text-align: center;
+    padding: 12px 0;
+}
+
+.emotion-list-column ul {
+    margin: 24px 24px;
+}
+
+.emotion-list-column li {
+    margin: 8px 0px;
+}

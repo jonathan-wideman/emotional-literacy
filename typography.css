@@ -1,0 +1,41 @@
+html {
+    /*for using REM units*/
+    font-size: 1px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16rem;
+    color: #f4f5f5;
+    letter-spacing: 0.5rem;
+}
+
+h1 {
+    font-size: 96rem;
+    letter-spacing: -1.5rem;
+}
+
+h2 {
+    font-size: 60rem;
+    letter-spacing: -0.5rem;
+}
+
+h3 {
+    font-size: 48rem;
+    letter-spacing: 0rem;
+}
+
+h4 {
+    font-size: 34rem;
+    letter-spacing: 0.25rem;
+}
+
+h5 {
+    font-size: 24rem;
+    letter-spacing: 0rem;
+}
+
+h6 {
+    font-size: 20rem;
+    letter-spacing: 0.15rem;
+}
